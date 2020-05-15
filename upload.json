@@ -1,0 +1,1559 @@
+[
+  {
+    "Title": " 40Ar/39Ar  geochronology of submarine Mauna Loa volcano, Hawaii",
+    "author": "B.R Jicha",
+    "year": 2012.0,
+    "Sample_Data": [
+      {
+        "sample_name": "M1203",
+        "lithology": null,
+        "latitude": 19.0,
+        "longitude": -156.5,
+        "elevation_m": null,
+        "depth_m": 3700.0,
+        "Formation": "Mauna Loa Lava",
+        "Member": null
+      },
+      {
+        "sample_name": "SW-77",
+        "lithology": null,
+        "latitude": 19.16,
+        "longitude": -155.55,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Ninole Basalt",
+        "Member": null
+      },
+      {
+        "sample_name": "SW-45",
+        "lithology": null,
+        "latitude": 19.16,
+        "longitude": -155.55,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Ninole Basalt",
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "40Ar/39Ar chronology and paleomagnetism of Quaternary basaltic lavasfrom the Pers\u00dfani Mountains (East Carpathians)",
+    "author": "C.G Panaiotu",
+    "year": 2013.0,
+    "Sample_Data": [
+      {
+        "sample_name": "PVA/25555",
+        "lithology": null,
+        "latitude": 46.4,
+        "longitude": 25.0,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Pietrele valley (lava flow)",
+        "Member": null
+      },
+      {
+        "sample_name": "PN34-1",
+        "lithology": null,
+        "latitude": 46.4,
+        "longitude": 25.0,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Mateias volcano (lava flow)",
+        "Member": null
+      },
+      {
+        "sample_name": "PN29-1",
+        "lithology": null,
+        "latitude": 46.4,
+        "longitude": 25.0,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Bogata Quarry (lava flow)",
+        "Member": null
+      },
+      {
+        "sample_name": "PN26",
+        "lithology": null,
+        "latitude": 46.4,
+        "longitude": 25.0,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Barc Quarry (lava flow)",
+        "Member": null
+      },
+      {
+        "sample_name": "PN23-1",
+        "lithology": null,
+        "latitude": 46.4,
+        "longitude": 25.0,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Barc Valley (lava flow)",
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "40Ar/39Ar chronostratigraphy of late Miocene-early Pliocene continental aquatic basins in SE Galilee, Israel",
+    "author": "A.G. Rozenbaum, A. Sandler, E. Zilberman, M. Stein, B.R. Jicha, and B.S. Singer",
+    "year": 2016.0,
+    "Sample_Data": [
+      {
+        "sample_name": "AR160",
+        "lithology": "basalt",
+        "latitude": 32.64056,
+        "longitude": 35.47917,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "AR160",
+        "lithology": "basalt",
+        "latitude": 32.64056,
+        "longitude": 35.47917,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "AR160",
+        "lithology": "basalt",
+        "latitude": 32.64056,
+        "longitude": 35.47917,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Contrasting P-T paths of shield and rejuvenated volcanism at Robinson Crusoe Island, Juan Fern_ndez Ridge, SE Pacific",
+    "author": "Javier Reyes, Luis E. Lara, Diego Morata",
+    "year": 2017.0,
+    "Sample_Data": [
+      {
+        "sample_name": "JR220112-2",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "JR220112-3",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "JR230112-1",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "JR250112-3",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "LL-260112-4",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "LL-260112-4",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "LL220112-1",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Contrasting P-T paths of shield and rejuvenated volcanism at RobinsonCrusoe Island, Juan Fern_ndez Ridge, SE Pacific",
+    "author": "Javier Reyes, Luis E. Lara, Diego Morata",
+    "year": 2017.0,
+    "Sample_Data": [
+      {
+        "sample_name": "LL230112-1",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "LL230112-1",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "LL250711-5",
+        "lithology": "Tholeiitic basalt",
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "LL250711-5",
+        "lithology": "Tholeiitic basalt",
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "LL270112-2",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "LL270711-5",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "MP270112-4",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "MP270112-4",
+        "lithology": null,
+        "latitude": -33.65,
+        "longitude": -78.83,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Cryptochron C2r.2r-1 recorded 2.51 Ma in the Koolau Volcano atHalawa, Oahu, Hawaii, USA: Paleomagneticand40Ar/39Ar evidence",
+    "author": "Herrero-Bervera et al.",
+    "year": 2007.0,
+    "Sample_Data": [
+      {
+        "sample_name": "HX28",
+        "lithology": "lava flow",
+        "latitude": 21.373,
+        "longitude": -157.926,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Koolau and Kailua Volcanic Series",
+        "Member": null
+      },
+      {
+        "sample_name": "HX23",
+        "lithology": "lava flow",
+        "latitude": 21.373,
+        "longitude": -157.926,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Koolau and Kailua Volcanic Series",
+        "Member": null
+      },
+      {
+        "sample_name": "HX21",
+        "lithology": "lava flow",
+        "latitude": 21.373,
+        "longitude": -157.926,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Koolau and Kailua Volcanic Series",
+        "Member": null
+      },
+      {
+        "sample_name": "HX20",
+        "lithology": "lava flow",
+        "latitude": 21.373,
+        "longitude": -157.926,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Koolau and Kailua Volcanic Series",
+        "Member": null
+      },
+      {
+        "sample_name": "HX19",
+        "lithology": "lava flow",
+        "latitude": 21.373,
+        "longitude": -157.926,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Koolau and Kailua Volcanic Series",
+        "Member": null
+      },
+      {
+        "sample_name": "HX12",
+        "lithology": "lava flow",
+        "latitude": 21.373,
+        "longitude": -157.926,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Koolau and Kailua Volcanic Series",
+        "Member": null
+      },
+      {
+        "sample_name": "HX09",
+        "lithology": "lava flow",
+        "latitude": 21.373,
+        "longitude": -157.926,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Koolau and Kailua Volcanic Series",
+        "Member": null
+      },
+      {
+        "sample_name": "HX05",
+        "lithology": "lava flow",
+        "latitude": 21.373,
+        "longitude": -157.926,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Koolau and Kailua Volcanic Series",
+        "Member": null
+      },
+      {
+        "sample_name": "HX01",
+        "lithology": "lava flow",
+        "latitude": 21.373,
+        "longitude": -157.926,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Koolau and Kailua Volcanic Series",
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Eocene to Pleistocene magmatic evolution of the Delarof Islands, Aleutian Arc",
+    "author": "Allen J. Schaen, Brian R. Jicha, Suzanne M. Kay, Brad S. Singer, and Ashley Tibbets",
+    "year": 2016.0,
+    "Sample_Data": [
+      {
+        "sample_name": "AT-12-02",
+        "lithology": "gabbro",
+        "latitude": 51.29983,
+        "longitude": -179.10318,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "AT-12-02",
+        "lithology": "gabbro",
+        "latitude": 51.29983,
+        "longitude": -179.10318,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "AT-12-06",
+        "lithology": "quartz diorite",
+        "latitude": 51.2554,
+        "longitude": -179.06253,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "AT-12-06",
+        "lithology": "quartz diorite",
+        "latitude": 51.2554,
+        "longitude": -179.06253,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "AT-12-06",
+        "lithology": "quartz diorite",
+        "latitude": 51.2554,
+        "longitude": -179.06253,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "AT-12-06",
+        "lithology": "quartz diorite",
+        "latitude": 51.2554,
+        "longitude": -179.06253,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "AT-12-02",
+        "lithology": "gabbro",
+        "latitude": 51.29983,
+        "longitude": -179.10318,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "AT-12-06",
+        "lithology": "quartz diorite",
+        "latitude": 51.2554,
+        "longitude": -179.06253,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "AT-12-06",
+        "lithology": "quartz diorite",
+        "latitude": 51.2554,
+        "longitude": -179.06253,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Estad\u00edo 10 inicial del arco volc\u00e1nico Ne\u00f3geno en la cordillera principal de Mendoza (35 \u00b0S)",
+    "author": "Sruoga P. Rubinstein",
+    "year": 2008.0,
+    "Sample_Data": [
+      {
+        "sample_name": "SA-49",
+        "lithology": null,
+        "latitude": -70.0,
+        "longitude": -35.0,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Complejo Volc\u00e1nico Cord\u00f3n del Burrero",
+        "Member": "Litofacies 2"
+      },
+      {
+        "sample_name": "SA-50",
+        "lithology": null,
+        "latitude": -70.0,
+        "longitude": -35.0,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Complejo Volc\u00e1nico Cord\u00f3n del Burrero",
+        "Member": "Litofacies 2"
+      },
+      {
+        "sample_name": "SA-52",
+        "lithology": null,
+        "latitude": -70.0,
+        "longitude": -35.0,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Complejo Volc\u00e1nico Cord\u00f3n del Burrero",
+        "Member": "Litofacies 3"
+      }
+    ]
+  },
+  {
+    "Title": "Hinterland drainage closure and lake formation in response to middle Eocene Farallon slab removal, Nevada, U.S.A.",
+    "author": "M. Elliot Smith, Elizabeth J. Cassel, Brian R. Jicha, Brad S. Singer, Andrew S. Canada",
+    "year": 2017.0,
+    "Sample_Data": [
+      {
+        "sample_name": "129SR",
+        "lithology": "biotite-rich, coarse grained tuff",
+        "latitude": 40.5797,
+        "longitude": -115.9907,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "129SR",
+        "lithology": "biotite-rich, coarse grained tuff",
+        "latitude": 40.5797,
+        "longitude": -115.9907,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Internal fabrics of the Idaho batholith, USA",
+    "author": "A. Byerly; B. Tikoff; M. Kahn; B. Jicha; R. Gaschnig; A.K. Fayon",
+    "year": 2017.0,
+    "Sample_Data": [
+      {
+        "sample_name": "07RMG56",
+        "lithology": "biotite granodiorite",
+        "latitude": 44.3576,
+        "longitude": "_115.2356",
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Large-volume silicic volcanism in Kamchatka: Ar-Ar, U-Pb ages and geochemical characteristics of major pre-Holocene caldera-forming eruptions",
+    "author": "I.N Bindeman",
+    "year": 2010.0,
+    "Sample_Data": [
+      {
+        "sample_name": "83L-20",
+        "lithology": "ignimbrite",
+        "latitude": 51.678,
+        "longitude": 157.073,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Pauzhetka",
+        "Member": null
+      },
+      {
+        "sample_name": "C-708",
+        "lithology": "ignimbrite",
+        "latitude": 51.678,
+        "longitude": 157.073,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Pauzhetka",
+        "Member": null
+      },
+      {
+        "sample_name": "K6-3",
+        "lithology": "ignimbrite",
+        "latitude": 51.678,
+        "longitude": 157.073,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Pauzhetka",
+        "Member": null
+      },
+      {
+        "sample_name": "71G-111",
+        "lithology": "lava, resurgent dome",
+        "latitude": 51.678,
+        "longitude": 157.073,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Pauzhetka",
+        "Member": null
+      },
+      {
+        "sample_name": "11M-2002",
+        "lithology": "ignimbrite",
+        "latitude": 52.111,
+        "longitude": 157.336,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Ksudach",
+        "Member": null
+      },
+      {
+        "sample_name": "2006L-19",
+        "lithology": "ignimbrite",
+        "latitude": 52.621,
+        "longitude": 157.995,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Gorely",
+        "Member": null
+      },
+      {
+        "sample_name": "2007L-40",
+        "lithology": "ignimbrite",
+        "latitude": 52.754,
+        "longitude": 158.039,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Karymshina",
+        "Member": null
+      },
+      {
+        "sample_name": "2006L-24",
+        "lithology": "ignimbrite",
+        "latitude": 52.754,
+        "longitude": 158.039,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Karymshina",
+        "Member": null
+      },
+      {
+        "sample_name": "2005G-5",
+        "lithology": "ignimbrite",
+        "latitude": 52.754,
+        "longitude": 158.039,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Karymshina",
+        "Member": null
+      },
+      {
+        "sample_name": "2007L-36",
+        "lithology": "ignimbrite",
+        "latitude": 52.754,
+        "longitude": 158.039,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Karymshina",
+        "Member": null
+      },
+      {
+        "sample_name": "2007L-32",
+        "lithology": "post-caldera extrusion",
+        "latitude": 52.754,
+        "longitude": 158.039,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Karymshina",
+        "Member": null
+      },
+      {
+        "sample_name": "07IB-6",
+        "lithology": "ignimbrite",
+        "latitude": 54.193,
+        "longitude": 159.006,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Stol Mt",
+        "Member": null
+      },
+      {
+        "sample_name": "2001L-21",
+        "lithology": "ignimbrite",
+        "latitude": 53.831,
+        "longitude": 157.644,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Odnoboky",
+        "Member": null
+      },
+      {
+        "sample_name": "1999L-9",
+        "lithology": "ignimbrite",
+        "latitude": 53.675,
+        "longitude": 158.654,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Polovinka",
+        "Member": null
+      },
+      {
+        "sample_name": "2007L-27",
+        "lithology": "ignimbrite",
+        "latitude": 53.675,
+        "longitude": 158.654,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Polovinka",
+        "Member": null
+      },
+      {
+        "sample_name": "2007L-22",
+        "lithology": "ignimbrite",
+        "latitude": 54.244,
+        "longitude": 159.665,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Stena-Soboliny",
+        "Member": null
+      },
+      {
+        "sample_name": "509-1",
+        "lithology": "ignimbrite",
+        "latitude": 53.935,
+        "longitude": 159.709,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Korneva River, Karymsky center",
+        "Member": null
+      },
+      {
+        "sample_name": "1990L-8",
+        "lithology": "ignimbrite without quartz",
+        "latitude": 54.475,
+        "longitude": 160.192,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Bolshoy Semyachik",
+        "Member": null
+      },
+      {
+        "sample_name": "1988L-80",
+        "lithology": "ignimbrite with quartz",
+        "latitude": 54.475,
+        "longitude": 160.192,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Bolshoy Semyachik",
+        "Member": null
+      },
+      {
+        "sample_name": "1990L-101",
+        "lithology": "ignimbrite",
+        "latitude": 54.678,
+        "longitude": 160.588,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Uzon-Shorokoye Plateau",
+        "Member": null
+      },
+      {
+        "sample_name": "1132-1",
+        "lithology": "ignimbrite",
+        "latitude": 54.982,
+        "longitude": 161.028,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Zheleznodorozhny Plateau",
+        "Member": null
+      },
+      {
+        "sample_name": "CX1436",
+        "lithology": "ignimbrite",
+        "latitude": 54.932,
+        "longitude": 157.292,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Khangar",
+        "Member": null
+      },
+      {
+        "sample_name": "PP2240",
+        "lithology": "ignimbrite",
+        "latitude": 55.904,
+        "longitude": 157.819,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Nosichan",
+        "Member": null
+      },
+      {
+        "sample_name": "ES888",
+        "lithology": "ignimbrite",
+        "latitude": 56.15,
+        "longitude": 158.435,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Uksichan",
+        "Member": null
+      },
+      {
+        "sample_name": "ES859",
+        "lithology": "ignimbrite",
+        "latitude": 56.15,
+        "longitude": 158.435,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Uksichan",
+        "Member": null
+      },
+      {
+        "sample_name": "TT7305",
+        "lithology": "ignimbrite",
+        "latitude": 57.638,
+        "longitude": 160.324,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Tekletunup",
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Major explosive activity in the Monti Sabatini Volcanic District (central Italy) over the 800\u2013390 ka interval: geochronological\u2013geochemical overview and tephrostratigraphic implications",
+    "author": "F. Marra",
+    "year": 2014.0,
+    "Sample_Data": [
+      {
+        "sample_name": "FALL-PG",
+        "lithology": null,
+        "latitude": 41.0,
+        "longitude": 12.0,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Morlupo Center",
+        "Member": "FAD-2"
+      }
+    ]
+  },
+  {
+    "Title": "Major explosive activity in the Monti Sabatini Volcanic District\u00be(central Italy) over the 800_390\u00beka interval: geochronological_geochemical overview and tephrostratigraphic implications",
+    "author": "Marra et al.",
+    "year": 2014.0,
+    "Sample_Data": [
+      {
+        "sample_name": "FALL-PG",
+        "lithology": "Pumice",
+        "latitude": 41.84666,
+        "longitude": 12.364722,
+        "elevation_m": 50,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "No Evidence for Brunhes age Excursions, Santo Ant\u00e3o, Cape Verde.",
+    "author": "M.C Brown",
+    "year": 2009.0,
+    "Sample_Data": [
+      {
+        "sample_name": "T215",
+        "lithology": null,
+        "latitude": 16.957,
+        "longitude": -25.305,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Tarrafal",
+        "Member": null
+      },
+      {
+        "sample_name": "T319",
+        "lithology": null,
+        "latitude": 16.957,
+        "longitude": -25.305,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Tarrafal",
+        "Member": null
+      },
+      {
+        "sample_name": "T265",
+        "lithology": null,
+        "latitude": 16.957,
+        "longitude": -25.305,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Tarrafal",
+        "Member": null
+      },
+      {
+        "sample_name": "T213",
+        "lithology": null,
+        "latitude": 16.957,
+        "longitude": -25.305,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Tarrafal",
+        "Member": null
+      },
+      {
+        "sample_name": "T262",
+        "lithology": null,
+        "latitude": 16.957,
+        "longitude": -25.305,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Tarrafal",
+        "Member": null
+      },
+      {
+        "sample_name": "T240",
+        "lithology": null,
+        "latitude": 16.957,
+        "longitude": -25.305,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Tarrafal",
+        "Member": null
+      },
+      {
+        "sample_name": "T264",
+        "lithology": null,
+        "latitude": 16.957,
+        "longitude": -25.305,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Tarrafal",
+        "Member": null
+      },
+      {
+        "sample_name": "T230",
+        "lithology": null,
+        "latitude": 16.957,
+        "longitude": -25.305,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Tarrafal",
+        "Member": null
+      },
+      {
+        "sample_name": "T223",
+        "lithology": null,
+        "latitude": 16.957,
+        "longitude": -25.305,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Tarrafal",
+        "Member": null
+      },
+      {
+        "sample_name": "TA07",
+        "lithology": null,
+        "latitude": 16.957,
+        "longitude": -25.305,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Tarrafal",
+        "Member": null
+      },
+      {
+        "sample_name": "TA01",
+        "lithology": null,
+        "latitude": 16.957,
+        "longitude": -25.305,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Tarrafal",
+        "Member": null
+      },
+      {
+        "sample_name": "AG315",
+        "lithology": null,
+        "latitude": 17.079,
+        "longitude": -25.277,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Agua Nova",
+        "Member": null
+      },
+      {
+        "sample_name": "AG311",
+        "lithology": null,
+        "latitude": 17.079,
+        "longitude": -25.277,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Agua Nova",
+        "Member": null
+      },
+      {
+        "sample_name": "AG314",
+        "lithology": null,
+        "latitude": 17.079,
+        "longitude": -25.277,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Agua Nova",
+        "Member": null
+      },
+      {
+        "sample_name": "AG308",
+        "lithology": null,
+        "latitude": 17.079,
+        "longitude": -25.277,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Agua Nova",
+        "Member": null
+      },
+      {
+        "sample_name": "AW03",
+        "lithology": null,
+        "latitude": 17.079,
+        "longitude": -25.277,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Agua Nova",
+        "Member": null
+      },
+      {
+        "sample_name": "AW16",
+        "lithology": null,
+        "latitude": 17.079,
+        "longitude": -25.277,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Agua Nova",
+        "Member": null
+      },
+      {
+        "sample_name": "AW12",
+        "lithology": null,
+        "latitude": 17.079,
+        "longitude": -25.277,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Agua Nova",
+        "Member": null
+      },
+      {
+        "sample_name": "AW21",
+        "lithology": null,
+        "latitude": 17.079,
+        "longitude": -25.277,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Agua Nova",
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Rapid magma ascent and generation of230Th excesses in the lowercrust at Puyehue\u2013Cord\u00f3n Caulle, Southern Volcanic Zone, Chile",
+    "author": "Jicha et al.",
+    "year": 2007.0,
+    "Sample_Data": [
+      {
+        "sample_name": "PU 03 27",
+        "lithology": null,
+        "latitude": -40.5717,
+        "longitude": -72.164734,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Puyehue Volcano",
+        "Member": "Dacitic to rhyolitic lava flows"
+      }
+    ]
+  },
+  {
+    "Title": "Reassessment of Aguape\u00ed (Salto do C\u00e9u) paleomagnetic pole, Amazonian Craton and implications for Proterozoic supercontinents",
+    "author": "ManoelS.D\u2019Agrella-Filho",
+    "year": 2016.0,
+    "Sample_Data": [
+      {
+        "sample_name": "AZ225",
+        "lithology": null,
+        "latitude": -15.2,
+        "longitude": -58.06,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "AZ227",
+        "lithology": null,
+        "latitude": -15.2,
+        "longitude": -58.06,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Redefining the Waitemata Basin, New Zealand: A newtectonic, magmatic, and basin evolution model at asubduction terminus in the SW Pacific",
+    "author": "P. Shane",
+    "year": 2010.0,
+    "Sample_Data": [
+      {
+        "sample_name": "CB",
+        "lithology": "Aphyric Basalt",
+        "latitude": -36.751,
+        "longitude": 174.757,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Waitemata Basin",
+        "Member": null
+      },
+      {
+        "sample_name": "W1",
+        "lithology": "Aphyric Basalt",
+        "latitude": -36.549,
+        "longitude": 174.702,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Waitemata Basin",
+        "Member": null
+      },
+      {
+        "sample_name": "A1",
+        "lithology": "Aphyric Basalt",
+        "latitude": -36.6,
+        "longitude": 174.813,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Waitemata Basin",
+        "Member": null
+      },
+      {
+        "sample_name": "W8",
+        "lithology": "Porphyritic Basalt",
+        "latitude": -36.549,
+        "longitude": 174.702,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Waitemata Basin",
+        "Member": null
+      },
+      {
+        "sample_name": "A4",
+        "lithology": "Porphyritic Basalt",
+        "latitude": -36.6,
+        "longitude": 174.813,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Waitemata Basin",
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Revised age of Aleutian Island Arc formation implies high rate of magma production",
+    "author": "Jicha et al.",
+    "year": 2006.0,
+    "Sample_Data": [
+      {
+        "sample_name": "J99S20S24",
+        "lithology": "basalt",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 1281.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "J99S13S19",
+        "lithology": "gabbro",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 1650.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "J99S12S18",
+        "lithology": "andesite",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 1691.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "J99S6S9",
+        "lithology": "basalt",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 2021.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "J99S4S7",
+        "lithology": "basaltic andesite",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 2049.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "J99S3S6",
+        "lithology": "basalt",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 2119.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "J99S3S5",
+        "lithology": "basalt",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 2119.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "J99S2S4",
+        "lithology": "volcaniclastic andesite",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 2125.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "J99S1S2",
+        "lithology": "basaltic andesite",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 2203.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "J99S1S1",
+        "lithology": "volcaniclastic andesite",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 2203.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "J98S7S8",
+        "lithology": "basaltic andesite",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 2035.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "J98S6S7",
+        "lithology": "andesite",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 2070.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "J98S3S3",
+        "lithology": "basaltic andesite",
+        "latitude": 51.4984,
+        "longitude": 177.0808,
+        "elevation_m": null,
+        "depth_m": 2715.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "TN182-30-001",
+        "lithology": "gabbro",
+        "latitude": 51.513,
+        "longitude": 176.149,
+        "elevation_m": null,
+        "depth_m": 2535.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "TN182-30-003",
+        "lithology": "basalt",
+        "latitude": 51.513,
+        "longitude": 176.149,
+        "elevation_m": null,
+        "depth_m": 3018.0,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "AD 03 04",
+        "lithology": "andesite",
+        "latitude": 51.7544,
+        "longitude": 176.64,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Finger Bay Volcanics",
+        "Member": null
+      },
+      {
+        "sample_name": "KAG7-32",
+        "lithology": "granodiorite",
+        "latitude": 51.848,
+        "longitude": 176.377,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Kagalaska Pluton",
+        "Member": null
+      },
+      {
+        "sample_name": "KAG7-50",
+        "lithology": "granodiorite",
+        "latitude": 51.848,
+        "longitude": 176.377,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Kagalaska Pluton",
+        "Member": null
+      },
+      {
+        "sample_name": "AM33",
+        "lithology": "granodiorite",
+        "latitude": 51.617,
+        "longitude": 178.797,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "MR80-12",
+        "lithology": "basalt",
+        "latitude": 51.7544,
+        "longitude": 176.64,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Finger Bay Volcanics",
+        "Member": null
+      },
+      {
+        "sample_name": "AT80-87",
+        "lithology": "gabbro",
+        "latitude": 52.847,
+        "longitude": 172.934,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "SED-AB",
+        "lithology": "granodiorite",
+        "latitude": 53.841,
+        "longitude": -166.1696,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "SED-36-D",
+        "lithology": "granodiorite",
+        "latitude": 53.841,
+        "longitude": -166.1696,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "HB76-125",
+        "lithology": "granodiorite",
+        "latitude": 51.7544,
+        "longitude": 176.64,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Finger Bay Volcanics",
+        "Member": null
+      },
+      {
+        "sample_name": "AT80-22",
+        "lithology": "gabbro",
+        "latitude": 52.847,
+        "longitude": 172.934,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "BW8-R39B",
+        "lithology": "basalt",
+        "latitude": 51.7544,
+        "longitude": 176.64,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "MV80-24",
+        "lithology": "basalt",
+        "latitude": 51.7544,
+        "longitude": 176.64,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "FB8-19",
+        "lithology": "gabbro",
+        "latitude": 51.7544,
+        "longitude": 176.64,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Snapshot of the Matuyama-Brunhes reversal process recorded in 40Ar/39Ar -dated lavas from Guadeloupe, West Indies",
+    "author": "M.C Brown",
+    "year": 2013.0,
+    "Sample_Data": [
+      {
+        "sample_name": "GA0205A",
+        "lithology": "Andesitic Lava Flow",
+        "latitude": 16.15,
+        "longitude": -61.76,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Morne Marigot",
+        "Member": "G02 "
+      },
+      {
+        "sample_name": "GD0103B",
+        "lithology": "Andesitic Lava Flow",
+        "latitude": 16.15,
+        "longitude": -61.76,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": "Morne Marigot",
+        "Member": "GD"
+      }
+    ]
+  },
+  {
+    "Title": "Snapshot of the Matuyama_Brunhes reversal process recorded in_40Ar/39Ar_dated lavas from Guadeloupe, West Indies",
+    "author": "Brown et al.",
+    "year": 2013.0,
+    "Sample_Data": [
+      {
+        "sample_name": "GA0205A",
+        "lithology": "andesite",
+        "latitude": 16.088,
+        "longitude": 298.241,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      }
+    ]
+  },
+  {
+    "Title": "Snapshot of the Matuyama_Brunhes reversal process recorded in_40Ar/39Ar_dated lavas from Guadeloupe, West Indies",
+    "author": "M.C. Brown, B.R. Jicha, B.S. Singer, J. Shaw",
+    "year": 2013.0,
+    "Sample_Data": [
+      {
+        "sample_name": "GA0205A",
+        "lithology": "andesite",
+        "latitude": 16.088,
+        "longitude": 298.241,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "GD0103B",
+        "lithology": "andesite",
+        "latitude": 16.088,
+        "longitude": 298.241,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "GD0103B",
+        "lithology": "andesite",
+        "latitude": 16.088,
+        "longitude": 298.241,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "GD0103B",
+        "lithology": null,
+        "latitude": null,
+        "longitude": null,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      },
+      {
+        "sample_name": "GD0103B",
+        "lithology": null,
+        "latitude": null,
+        "longitude": null,
+        "elevation_m": null,
+        "depth_m": null,
+        "Formation": null,
+        "Member": null
+      }
+    ]
+  }
+]

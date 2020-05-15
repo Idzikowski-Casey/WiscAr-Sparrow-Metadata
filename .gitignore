@@ -1,0 +1,7 @@
+*.html
+venv/
+__pycache__/
+.idea/
+/Notes.py
+*.whl
+/testclassmap.html
